@@ -1,36 +1,56 @@
-Welcome to Learn Advanced CSS, a repository aimed at providing resources for developers looking to improve their skills in Cascading Style Sheets (CSS). This repository contains a collection of curated resources, examples, and exercises to help you take your CSS skills to the next level.
+# Advanced CSS Projects
+
+Welcome to my Advanced CSS Projects repository! This repository showcases my journey in mastering advanced CSS techniques. Each project focuses on different aspects of CSS, from layout to animations.
 
 ## Table of Contents
-- Getting Started
-- Contents
-- Contributing
-- License
+
+- [Projects](#projects)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
+
+## Projects
+
+### Natours
+
+A project that focuses on advanced CSS animations and layout techniques. It's a fictional website for a nature tour company.
+
+### Nexter
+
+This project is all about CSS Grid and how you can use it to create complex layouts.
+
+### Trillo
+
+A project that utilizes Flexbox for layout design. It's a fictional website for booking hotels.
+
 ## Getting Started
-To get started with this repository, simply clone the repository to your local machine:
 
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/alexlux58/advanced-css.git
 ```
-git clone https://github.com/alexlux58/learn-advanced-CSS.git
-```
-Once you have cloned the repository, you can start exploring the contents and resources available. You can view the examples and exercises in your browser by opening the index.html file in the root directory.
 
-## Contents
-This repository contains a range of resources to help you improve your CSS skills, including:
+## Navigate to Each Project
 
-Examples of advanced CSS techniques and design patterns
-Exercises to help you practice your CSS skills
-A curated list of external resources for further learning
-The repository is organized into folders, each containing a different set of resources. The examples folder contains code examples demonstrating advanced CSS techniques and design patterns. The exercises folder contains a set of exercises to help you practice your CSS skills. Finally, the resources folder contains a curated list of external resources for further learning.
+Navigate to each project folder and open the `index.html` file in your browser to see the project in action.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- SASS
 
 ## Contributing
-Contributions to this repository are welcome and encouraged. If you have an example or exercise you would like to contribute, please create a pull request with your changes. If you have a resource you would like to add to the curated list, please create an issue with your suggestion.
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, open a pull request.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Credits
 
-The resources and examples in this repository were created by Alex Lux. However, I would like to give credit to Jonas Schmedtmann for his exceptional teaching and inspiration that helped me learn and master advanced CSS concepts. His online course, "Advanced CSS and Sass," provided the foundation for many of the techniques and concepts covered in this repository.
-
-I highly recommend Jonas Schmedtmann's courses and resources for anyone looking to improve their CSS and web development skills. You can find more information about his courses and resources at his website, [codingheroes.io](https://codingheroes.io/).
-
-Thank you, Jonas, for your incredible work and dedication to teaching web development!
+Special thanks to Jonas Schmedtmann for his exceptional courses that have been a great resource in learning advanced CSS techniques.
