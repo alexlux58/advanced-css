@@ -1,0 +1,19 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore all .css files as they are likely compiled from SASS
+*.css
+*.css.map
+
+# Ignore SASS cache
+.sass-cache/
+
+# Ignore any .env files
+.env
+
+# Ignore the dist/ or build/ directory if you have one
+dist/
+build/
+
+# Ignore the etc/ folder if you don't want it to be tracked
+etc/
